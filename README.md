@@ -40,25 +40,6 @@ Predict the probability of a binary outcome.
 **Expected Outcomes:**
 Identification of significant features through coefficient values. Probability estimation for binary classification.
 
-...
-
-*Continue similar sections for LDA, QDA, SVM, and PLS*
-
-## Features Used in Algorithms
-
-*Detail the features and methods used in each algorithm.*
-
-...
-
-*Continue similar sections for LDA, QDA, SVM, and PLS*
-
-## Phenotypes Study
-
-*Provide a biological relevance study for each algorithm, discussing the significance of highlighted proteins in relation to Cladocopium and its host organism.*
-
-...
-
-*Continue similar sections for LDA, QDA, SVM, and PLS*
 
 ## Best Model
 
@@ -67,25 +48,3 @@ Support Vector Machine (SVM)
 
 **Reasoning:**
 SVM was chosen due to its effectiveness in handling complex, high-dimensional datasets, adaptability to different kernel functions, and robust performance in binary classification tasks.
-
-...
-
-## Results of Algorithms
-
-*Provide details on the gene numbers, latent factor information, or any relevant outcomes obtained from each algorithm.*
-
-...
-
-*Continue similar sections for LDA, QDA, SVM, and PLS*
-
-## Usage
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/Cladocopium-Machine-Learning-Classification.git
-
-# Navigate to the project directory
-cd Cladocopium-Machine-Learning-Classification
-
-# Run the classification script
-python classify_cladocopium.py <data_file>
