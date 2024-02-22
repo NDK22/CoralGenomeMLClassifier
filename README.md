@@ -16,30 +16,6 @@ The following machine learning algorithms were applied for Cladocopium classific
 
 For each algorithm, default settings were utilized, and specific hyperparameters were tuned to enhance classification performance.
 
-## Method Description
-
-### Logistic Regression
-
-**Explanation:**
-Logistic regression is a supervised algorithm used for binary classification. It models the probability of a class given input features.
-
-**Customization:**
-Adjusted regularization parameters to prevent overfitting.
-
-...
-
-*Continue similar sections for LDA, QDA, SVM, and PLS*
-
-## Explanation of Each Algorithm Used and Expected Outcomes
-
-### Logistic Regression
-
-**Objective:**
-Predict the probability of a binary outcome.
-
-**Expected Outcomes:**
-Identification of significant features through coefficient values. Probability estimation for binary classification.
-
 
 ## Best Model
 
