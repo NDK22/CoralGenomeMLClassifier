@@ -1,4 +1,4 @@
-CoralML - Species Classifier
+#SymbiontML - Species Classifier
 
 ## Overview
 
