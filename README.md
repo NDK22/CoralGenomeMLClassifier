@@ -1,4 +1,4 @@
-# Cladocopium Machine Learning Classification
+CoralML - Species Classifier
 
 ## Overview
 
