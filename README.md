@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the algorithmic analysis for Cladocopium classification based on the host coral species (Orbicella annularis, OANN) using various machine learning algorithms. The goal is to provide a comprehensive understanding of the classification performance and identify significant features contributing to the classification outcome.
+This project focuses on the algorithmic analysis for Symbiodinium classification based on the host coral species (Orbicella annularis, OANN) using various machine learning algorithms. The goal is to provide a comprehensive understanding of the classification performance and identify significant features contributing to the classification outcome.
 
 ## Algorithms Used
 
